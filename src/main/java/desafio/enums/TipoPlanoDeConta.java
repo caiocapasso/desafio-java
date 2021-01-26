@@ -1,0 +1,16 @@
+package desafio.enums;
+
+public enum TipoPlanoDeConta {
+    RECEITA, DESPESA,
+//    CAIXA,
+//    DEPOSITO_BANCARIO,
+//    RESERVAS_LIVRES,
+//    APLICACOES_EM_OURO,
+//    CHEQUE,
+//    ORDEM_PAGAMENTO,
+//    CREDITO_PESSOAL,
+//    EMPRESTIMO,
+//    OPERACAO_CAMBIO,
+//    JUROS_PAGAMENTO_EM_ATRASO,
+//    PAGAMENTO_IMPOSTOS
+}
